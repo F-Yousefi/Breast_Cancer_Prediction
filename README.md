@@ -84,7 +84,9 @@ Options:
 <img src="./images/skewness.gif" alt="skewness.gif" width="100%" >
 
 *The Histogram plot corresponding to each features.*
+
 **Blue Plots: acceptable**
+
 **Orange Plots: unacceptable**
 
 <br>
