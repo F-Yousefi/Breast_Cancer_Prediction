@@ -91,7 +91,7 @@ Options:
 
 <img src="./images/skewness_reduction.gif" alt="skewness_reduction.gif" width="50%" >
 
-- *The Histogram plot corresponding to each features **after being transformed** to Normal Distribution.*
+- *The Histogram plot corresponding to each features* ***after being transformed*** *to Normal Distribution.*
 
 
 
