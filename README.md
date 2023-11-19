@@ -83,15 +83,15 @@ Options:
 
 <img src="./images/skewness.gif" alt="skewness.gif" width="100%" >
 
-*The Histogram plot corresponding to each features.*
+- *The Histogram plot corresponding to each features.*
 **[Blue Plots: acceptable**
 **, Orange Plots: unacceptable]**
 
 <br>
 
-<img src="./images/skewness_reduction.gif" alt="skewness_reduction.gif" width="40%" >
+<img src="./images/skewness_reduction.gif" alt="skewness_reduction.gif" width="50%" >
 
-*The Histogram plot corresponding to each features after being transformed to Normal Distribution.*
+- *The Histogram plot corresponding to each features after being transformed to Normal Distribution.*
 
 
 
