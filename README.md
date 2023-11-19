@@ -10,7 +10,7 @@ Advancements in A.I. are beginning to deliver breakthroughs in breast cancer scr
 <br><br>
 
 ## Abstract
-This project is based on the dataset published by [UCI MACHINE LEARNING](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data/data) available in Kaggle. The hottest project based on this dataset is developed by [BUDDHINI W](https://www.kaggle.com/code/buddhiniw/breast-cancer-prediction) which an excellent acccuracy about `94.4%` which looks perfect. However, in this repository, you can gain the accuracy of `99.1%` on test data split.
+This project is based on the dataset published by [UCI MACHINE LEARNING](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data/data) available in Kaggle. The hottest project based on this dataset is developed by [BUDDHINI W](https://www.kaggle.com/code/buddhiniw/breast-cancer-prediction) which has achieved an excellent acccuracy about `94.4%` which looks perfect. However, in this repository, you can gain the accuracy of `99.1%` on test data split.
 
 <br><br>
 
