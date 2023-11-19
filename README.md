@@ -87,9 +87,9 @@ Options:
 **Blue Plots: acceptable**
 **Orange Plots: unacceptable**
 
-<br><br>
+<br>
 
-<img src="./images/skewness_reduction.gif" alt="skewness_reduction.gif" width="300" >
+<img src="./images/skewness_reduction.gif" alt="skewness_reduction.gif" width="40%" >
 
 *The Histogram plot corresponding to each features after being transformed to Normal Distribution.*
 
