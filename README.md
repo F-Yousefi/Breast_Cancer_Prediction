@@ -1,4 +1,4 @@
-A<img src="./images/header.png" alt="header.png" width="1000" >
+<img src="./images/header.png" alt="header.png" width="1000" >
 
 # Breast Cancer Prediction using Random Forest Classifier
 
