@@ -81,7 +81,7 @@ Options:
 >> The Best RFC Test Accuracy: 99.03%
 ```
 
-<center>
+<!--<center>-->
 <figure>
 <img src="./images/skewness.gif" alt="skewness.gif" width="100%" >
 <figcaption>The Histogram plot corresponding to each features. </figcaption>
@@ -92,7 +92,7 @@ Options:
 <img src="./images/skewness_reduction.gif" alt="skewness_reduction.gif" width="300" >
 <figcaption>The Histogram plot corresponding to each features after being transformed to Normal Distribution.  </figcaption>
 </figure>
-</center>
+<!-- </center> -->
 
 
 <br><br>
