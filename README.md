@@ -81,18 +81,18 @@ Options:
 >> The Best RFC Test Accuracy: 99.03%
 ```
 
-<!--<center>-->
-<figure>
 <img src="./images/skewness.gif" alt="skewness.gif" width="100%" >
-<figcaption>The Histogram plot corresponding to each features. </figcaption>
-<figcaption>Blue Plots: acceptable, Orange Plots: unacceptable </
+
+*The Histogram plot corresponding to each features.*
+**Blue Plots: acceptable**
+**Orange Plots: unacceptable**
 
 <br><br>
 
 <img src="./images/skewness_reduction.gif" alt="skewness_reduction.gif" width="300" >
-<figcaption>The Histogram plot corresponding to each features after being transformed to Normal Distribution.  </figcaption>
-</figure>
-<!-- </center> -->
+
+*The Histogram plot corresponding to each features after being transformed to Normal Distribution.*
+
 
 
 <br><br>
