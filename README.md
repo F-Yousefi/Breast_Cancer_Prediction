@@ -104,13 +104,13 @@ The Second way to train and test RFC is to use the `.ipynb` file in the main dir
 <br><br>
 
 
-## Refrences:
+## References:
 
 The following list contains several links to every resource that helped us implement this project.
 
-1.   Kaggle dataset published by [UCI MACHINE LEARNING](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data/data)
-2. The project which is developed by [BUDDHINI W](https://www.kaggle.com/code/buddhiniw/breast-cancer-prediction)
+1.  Kaggle dataset published by [UCI MACHINE LEARNING](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data/data)
+2.  The project which is developed by [BUDDHINI W](https://www.kaggle.com/code/buddhiniw/breast-cancer-prediction)
 3.  Maths-ML developed by [Farzad Yousefi ](https://github.com/F-Yousefi/Maths-ML)
 3.  House Price Prediction developed by [Farzad Yousefi ](https://github.com/F-Yousefi/House_Price_Prediction)
-4.   Machine Learning course published by [Coursera ](https://www.coursera.org/specializations/machine-learning-introduction)
+4.  Machine Learning course published by [Coursera ](https://www.coursera.org/specializations/machine-learning-introduction)
 
