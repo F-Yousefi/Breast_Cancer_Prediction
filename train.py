@@ -54,7 +54,9 @@ print(
 print(
     f"Random Forest Classifier Test Accuracy: {model.score(x_test,y_test)*100:.2f}%")
 
+#loading the best model
 model, x_train, x_test, y_train, y_test = load('./best_model/RFC.joblib')
 print(
     f"\nThe Best RFC Train Accuracy: {model.score(x_train,y_train)*100:.2f}%")
 print(f"The Best RFC Test Accuracy: {model.score(x_test,y_test)*100:.2f}%")
+
